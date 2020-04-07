@@ -6,6 +6,7 @@ public class HelloWorld {
 		System.out.println("Hello, Git.");
 		System.out.println("Hello, Git01.");
 		System.out.println("민지킴");
+		System.out.println("Hello, Git01.");
 
 	}
 
