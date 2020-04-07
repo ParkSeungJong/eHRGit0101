@@ -63,3 +63,8 @@ def func();
 print "HR Kim"
 print "Spring"
 ```
+
+```javascript
+var data = "HR Spring";
+data.song = "너에게로 초대";
+```
